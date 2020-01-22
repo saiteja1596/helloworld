@@ -1,4 +1,4 @@
-class main
+class sai
 {
 public static void main(String args[])
 {
