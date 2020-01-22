@@ -1,4 +1,5 @@
 <?php
 echo "welcome to day1";
 echo "welcome2";
+echo "welcome3";
 ?>
